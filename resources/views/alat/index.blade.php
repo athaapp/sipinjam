@@ -26,7 +26,7 @@
         <thead>
             <tr class="bg-slate-100 text-slate-700 text-xs uppercase tracking-wider border-b border-slate-200">
                 <th class="py-3 px-4 font-semibold">Kode</th>
-                <th class="py-3 px-4 font-semibold">Nama</th>
+                <th class="py-3 px-4 font-semibold">Nama Barang</th>
                 <th class="py-3 px-4 font-semibold">Stok</th>
                 <th class="py-3 px-4 font-semibold">Kondisi</th>
                 <th class="py-3 px-4 font-semibold">Lokasi</th>
